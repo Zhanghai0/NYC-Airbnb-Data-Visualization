@@ -1,4 +1,4 @@
-# NYC-Airbnb-Data-Visualization
+# NYC Airbnb Data Visualization
 
 ## ShinyApp: 
 https://zhanghai0.shinyapps.io/Airbnb/
