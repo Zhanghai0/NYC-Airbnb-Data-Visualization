@@ -1,6 +1,6 @@
 # NYC-Airbnb-Data-Visualization
 
-# Shiny App: https://zhanghai0.shinyapps.io/Airbnb/
+## Shiny App: https://zhanghai0.shinyapps.io/Airbnb/
 
 ## Project Overview
 Traveling exploded during the last decade. New York City (NYC), as a major city in the United
